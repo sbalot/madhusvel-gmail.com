@@ -1,2 +1,2 @@
-# madhusvel-gmail.com
+# ICDD-HyperGraphql
 ICDDHyperGraphQL
